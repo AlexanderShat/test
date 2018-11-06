@@ -3,6 +3,42 @@
              "hub_server":"78.155.202.221", 
              "channel_server": "78.155.202.219",
              "file_server": "78.155.202.220"},
+  "groups": [
+     {
+     "id": 0,
+     "name": "Объект наблюдения номер 1",
+     "desc": "Не спать",
+     "img": "https://i.ytimg.com/vi/-qj4O2aHQqc/maxresdefault.jpg"
+     },
+
+     {
+     "id": 1,
+     "name": "Объект наблюдения номер 2",
+     "desc": "Следить",
+     "img": "http://cn15.nevsedoma.com.ua/photo/11/1132/260_files/node-201-img-222469215.jpg"
+     },
+    
+    {
+     "id": 2,
+     "name": "Объект наблюдения номер 3",
+     "desc": "Очень важный объект",
+     "img": "https://raw.githubusercontent.com/vajahath/generator-ts-np/HEAD/media/sponsor.jpg"
+     },
+    
+    {
+     "id": 3,
+     "name": "Объект наблюдения номер 4",
+     "desc": "Так себе",
+     "img": "http://www.catgallery.ru/kototeka/wp-content/uploads/2015/07/Kotiki-pyut-vodu-2.jpg"
+     },
+    
+     {
+     "id": 4,
+     "name": "Объект наблюдения номер 5",
+     "desc": "Кто здесь",
+     "img": "http://hronika.info/uploads/posts/2018-08/thumbs/1535208348_ujuidq4249x01.jpg"
+     } 
+  ],
   
   "groups_entry": {
     "channel_account": "145@78.155.202.219",    
