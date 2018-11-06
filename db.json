@@ -40,7 +40,7 @@
      }    
 
  ],
-  "groups/[id]/entry": {
+  "groups_entry": {
     "channel_account": "145@78.155.202.219",    
     "auth":{   
                "nonce": "sdhfhs433gdfs7dfk",
