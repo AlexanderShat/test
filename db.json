@@ -31,14 +31,14 @@
       "img": "http://hronika.info/uploads/posts/2018-08/thumbs/1535208348_ujuidq4249x01.jpg"
     }
   ],
-  "groups/0/entry": {
+  "groups_entry": {
     "channel_account": "145@78.155.202.219",
     "auth": {
       "nonce": "sdhfhs433gdfs7dfk",
       "key": "gndsge4b7afga7jfj"
     }
   },
-  "members/contacts": [
+  "members_contacts": [
     {
       "id": 0,
       "name": "Пользователь номер 1",
@@ -70,14 +70,14 @@
       "img": "https://img.tsn.ua/cached/1448032823/tsn-e7757395fe937525edc97f670924f9cf/thumbs/1200x630/68/dd/bc7b14f35f677b3c6aa6c383516add68.jpg"
     }
   ],
-  "members/0/contact/": {
+  "members_contact": {
     "channel_account": "U666_U777@78.155.202.219",
     "auth": {
       "nonce": "sdhfhs433gdfs7dfk",
       "key": "gndsge4b7afga7jfj"
     }
   },
-  "members/0": {
+  "members_0": {
     "id": 0,
     "name": "Лариса",
     "desc": "Бухгалтер",
