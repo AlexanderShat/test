@@ -70,13 +70,38 @@
       "img": "https://img.tsn.ua/cached/1448032823/tsn-e7757395fe937525edc97f670924f9cf/thumbs/1200x630/68/dd/bc7b14f35f677b3c6aa6c383516add68.jpg"
     }
   ],
-  "members_contact": {
-    "channel_account": "U666_U777@78.155.202.219",
-    "auth": {
-      "nonce": "sdhfhs433gdfs7dfk",
-      "key": "gndsge4b7afga7jfj"
+  "members_list": [
+    {
+      "id": 0,
+      "name": "Пользователь номер 1",
+      "desc": "Не спать",
+      "img": "https://bipbap.ru/wp-content/uploads/2017/09/1476347524_krasavicy-koshki-i-koty-10.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Пользователь номер 2",
+      "desc": "Следить",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXzP08HOrGRONNRpgS_hxO5vNUFfuHMdBPRjlxjM6QNF7gkYIM"
+    },
+    {
+      "id": 2,
+      "name": "Пользователь номер 3",
+      "desc": "Очень важный объект",
+      "img": "http://xoxo.ru/wp-content/uploads/2017/11/smeshnye-koty-podborka-36520x693.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Пользователь номер 4",
+      "desc": "Так себе",
+      "img": "http://animalworld.com.ua/images/2010/December/Foto/Kotiki/Kotiki_6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Пользователь номер 5",
+      "desc": "Кто здесь",
+      "img": "https://img.tsn.ua/cached/1448032823/tsn-e7757395fe937525edc97f670924f9cf/thumbs/1200x630/68/dd/bc7b14f35f677b3c6aa6c383516add68.jpg"
     }
-  },
+  ],
   "members_0": {
     "id": 0,
     "name": "Лариса",
