@@ -4,31 +4,31 @@
       "id": 0,
       "name": "Объект наблюдения номер 1",
       "desc": "Не спать",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 1,
       "name": "Объект наблюдения номер 2",
       "desc": "Следить",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 2,
       "name": "Объект наблюдения номер 3",
       "desc": "Очень важный объект",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 3,
       "name": "Объект наблюдения номер 4",
       "desc": "Так себе",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 4,
       "name": "Объект наблюдения номер 5",
       "desc": "Кто здесь",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     }
   ],
   "groups_entry": {
@@ -44,35 +44,35 @@
       "name": "Пользователь номер 1",
       "account": "0@78.155.202.221",
       "desc": "Не спать",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 1,
       "name": "Пользователь номер 2",
       "account": "1@78.155.202.221",
       "desc": "Следить",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 2,
       "name": "Пользователь номер 3",
       "account": "2@78.155.202.221",
       "desc": "Очень важный объект",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 3,
       "name": "Пользователь номер 4",
       "account": "3@78.155.202.221",
       "desc": "Так себе",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 4,
       "account": "4@78.155.202.221",
       "name": "Пользователь номер 5",
       "desc": "Кто здесь",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     }
   ],
   "members_list": [
@@ -81,35 +81,35 @@
       "name": "Пользователь номер 1",
       "account": "0@78.155.202.221",
       "desc": "Не спать",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 1,
       "name": "Пользователь номер 2",
       "account": "1@78.155.202.221",
       "desc": "Следить",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 2,
       "name": "Пользователь номер 3",
       "account": "2@78.155.202.221",
       "desc": "Очень важный объект",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 3,
       "name": "Пользователь номер 4",
       "account": "3@78.155.202.221",
       "desc": "Так себе",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 4,
       "account": "4@78.155.202.221",
       "name": "Пользователь номер 5",
       "desc": "Кто здесь",
-      "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg"
+      "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     }
   ],
   "members_0": {
@@ -117,7 +117,7 @@
     "name": "Лариса",
     "desc": "Бухгалтер",
     "exta": "Много считаю",
-    "img": "https://blog.xenproject.org/wp-content/uploads/2014/10/Testing.jpg",
+    "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png",
     "last_activity": 666
   }
 }
