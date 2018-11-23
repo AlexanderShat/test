@@ -2,31 +2,31 @@
   "groups": [
     {
       "id": 0,
-      "name": "Объект наблюдения номер 1",
+      "name": "Объект наблюдения 1",
       "desc": "Не спать",
       "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 1,
-      "name": "Объект наблюдения номер 2",
+      "name": "Объект наблюдения 2",
       "desc": "Следить",
       "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 2,
-      "name": "Объект наблюдения номер 3",
+      "name": "Объект наблюдения 3",
       "desc": "Очень важный объект",
       "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 3,
-      "name": "Объект наблюдения номер 4",
+      "name": "Объект наблюдения 4",
       "desc": "Так себе",
       "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     },
     {
       "id": 4,
-      "name": "Объект наблюдения номер 5",
+      "name": "Объект наблюдения 5",
       "desc": "Кто здесь",
       "img": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png"
     }
